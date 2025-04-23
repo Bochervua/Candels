@@ -38,4 +38,4 @@ Problem statement:
 
 # Resault
 
-!['Finish resault'](15M_plot.png)(foto_res.png)
+!['Finish resault'](foto_res.png)(foto_res.png)
